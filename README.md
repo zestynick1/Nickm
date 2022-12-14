@@ -179,9 +179,9 @@
             <div class="logo">
                 <img src= "logo.png">
             </div>
-            <li><a href="#web">Web Technology</a></li>
-            <li><a href="#program">C Programming</a></li>
-            <li><a href="#course">Courses</a></li>
+            <li><a href="#web">Panel 1</a></li>
+            <li><a href="#program">Panel 2</a></li>
+            <li><a href="#course">Panel 3</a></li>
         </ul>
  
         <div class="rightNav">
