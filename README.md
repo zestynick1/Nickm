@@ -247,6 +247,8 @@
         <p class="text-footer">
         <p>Click <a href="https://zestynick1.github.io/multipagee/">here</a>
         </p>
+        <button type="button" class="btn btn-primary">This is a bootstrap button</button>
+    <a href="https://getbootstrap.com/" class="btn btn-primary">This is a link that looks like a button.</a>
  
  
     </footer>
